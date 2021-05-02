@@ -2,32 +2,28 @@
 
 ## Dati
 
-1. I dati sono cose che acquisiscono senso quando fanno parte del linguaggio
+1. Il dato è un'entità semplice che può formare la conoscenza
 
 
 ## Linguaggio
 
-2.
+2. I dati sono cose che acquisiscono senso quando fanno parte del linguaggio
 
 ## Conoscenza
 
-3.
-
-
-## Scelta
-
-4.
-
+3. Il valore della conoscenza sta nella sua storia collettiva
 
 ## Consenso
 
-5.
-
+4. Il consenso è l'accordo tra linguaggio e conoscenza
 
 ## Fiducia
 
-6.
+5.
 
+## Scelta
+
+6.
 
 ## Relazione/ Mercato
 
