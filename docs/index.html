@@ -100,7 +100,7 @@
             } else {
               url = yourRepo +'/blob/main/docs/' + vm.route.file
             }
-            var editHtml = '[<img src="/assets/icons/github.svg" alt="github icon" width="28" height="28">](' + url + ')\n'
+            var editHtml = '[<img src="/assets/icons/github.svg" alt="github icon" width="24" height="24">](' + url + ')\n'
 
             if (!(getParameterByName('hidegithublink') === 'true')) {
               return editHtml + '\n\n' + html + '\n\n----\n\n' + 'di <a href="https://lucacorsato.com" target="_blank" style="color: inherit; font-weight: normal;">Luca Corsato</a>'
