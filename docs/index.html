@@ -2,21 +2,21 @@
 <html lang="it">
 <head>
 
-  <title>Fiducia in quantità</title>
+  <title>I dati e le cose</title>
   <!-- Meta -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <meta name="description" content="#Dati #Datamanagement #Consenso - tesi sulla gestione dei dati conoscenza per ottenere consenso sullo scambio di conoscenza">
   <meta property="og:description" content="#Dati #Datamanagement #Consenso - tesi sulla gestione dei dati conoscenza per ottenere consenso sullo scambio di conoscenza">
-  <meta property="og:site_name" content="Fiducia in quantità">
+  <meta property="og:site_name" content="I dati e le cose">
   <meta property="og:type" content="app" />
-  <link rel="canonical" href="https://fiducia.dataporn.me">
-  <meta property="og:url" content="https://fiducia.dataporn.me">
-  <meta property="og:image" content="https://fiducia.dataporn.me/assets/images/fiducia-meta.png">
+  <link rel="canonical" href="https://cose.dataporn.me">
+  <meta property="og:url" content="https://cose.dataporn.me">
+  <meta property="og:image" content="https://cose.dataporn.me/assets/images/fiducia-meta.png">
   <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:image" content="https://fiducia.dataporn.me/assets/images/fiducia-meta.png">
-  <meta property="twitter:title" content="Fiducia in quantità">
+  <meta property="twitter:image" content="https://cose.dataporn.me/assets/images/fiducia-meta.png">
+  <meta property="twitter:title" content="I dati e le cose">
 
   <!-- favicon -->
   <link rel="icon" href="assets/favicon/favicon_fiducia_196x196.png">
@@ -37,7 +37,7 @@
   <div id="app"></div>
   <script>
     // Replace the below URL with your own GitHub Repository URL
-    var yourRepo = 'https://github.com/DATAPORNme/fiducia';
+    var yourRepo = 'https://github.com/DATAPORNme/dati-cose';
 
     function getParameterByName(name, url = window.location.href) {
       name = name.replace(/[\[\]]/g, '\\$&');
@@ -48,7 +48,7 @@
       return decodeURIComponent(results[2].replace(/\+/g, ' '));
     }
     window.$docsify = {
-      name: 'Fiducia in quantità',
+      name: 'I dati e le cose',
       repo: '',
       coverpage: true,
       loadSidebar: true,
@@ -100,7 +100,7 @@
             } else {
               url = yourRepo +'/blob/main/docs/' + vm.route.file
             }
-            var editHtml = '[<img src="/assets/icons/github.svg" alt="github icon" width="36" height="36">](' + url + ')\n'
+            var editHtml = '[<img src="/assets/icons/github.svg" alt="github icon" width="28" height="28">](' + url + ')\n'
 
             if (!(getParameterByName('hidegithublink') === 'true')) {
               return editHtml + '\n\n' + html + '\n\n----\n\n' + 'di <a href="https://lucacorsato.com" target="_blank" style="color: inherit; font-weight: normal;">Luca Corsato</a>'
