@@ -1,4 +1,4 @@
-# Fiducia in quantità
+# I dati e le cose
 
 
 ## I dati sono cose che acquisiscono senso quando fanno parte del linguaggio
