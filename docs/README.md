@@ -22,7 +22,7 @@ I problemi che cerco di risolvere sono innanzitutto due. Il primo è come tratta
 
 ## Nota di metodo
 
-![Très riches heures du Duc de Berry](/assets/images/Les_Très_Riches_Heures_du_duc_de_Berry_juillet.jpg)
+![Très riches heures du Duc de Berry](../assets/images/Les_Très_Riches_Heures_du_duc_de_Berry_juillet.jpg)
 
 <small>[Très riches heures du Duc de Berry](https://it.wikipedia.org/wiki/Tr%C3%A8s_riches_heures_du_Duc_de_Berry) - [Fonte](https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_juillet.jpg)</small>
 
@@ -40,4 +40,4 @@ Questi elementi sono la base per ottenere un documento [openaccess](https://it.w
 - l'eventuale interoperabilità, usando formati markdown e html;
 - la riusabilità, attraverso la licenza Creative Commons.
 
-Il mio bisogno è quello di ricevere riscontro su quanto scritto e studiato per portare avanti il mio [interesse professionale](https://lucacorsato.com) legato al data management. Ritengo che i gruppi più produttivi e felici, senza ansie o tensioni, siano quelli in cui la conoscenza e le informazioni circolano più semplicemente. 
+Il mio bisogno è quello di ricevere riscontro su quanto scritto e studiato per portare avanti il mio [interesse professionale](https://lucacorsato.com) legato al data management. Ritengo che i gruppi più produttivi e felici, senza ansie o tensioni, siano quelli in cui la conoscenza e le informazioni circolano più semplicemente.
