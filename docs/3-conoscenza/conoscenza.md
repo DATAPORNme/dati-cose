@@ -1,5 +1,9 @@
 # Conoscenza
 
+![The Story of the Learned Pig, By an officer of the Royal Navy (1786)](../assets/images/Story_of_the_Learned_Pig_by_an_Officer_of_the_Royal_Navy_1786.jpg)
+
+<small>The Story of the [Learned Pig](https://en.wikipedia.org/wiki/Learned_pig), By an officer of the Royal Navy (1786) - [Fonte](https://commons.wikimedia.org/wiki/File:Story_of_the_Learned_Pig_by_an_Officer_of_the_Royal_Navy_1786.jpg)</small>
+
 ## Il valore della conoscenza sta nella sua storia collettiva
 
 

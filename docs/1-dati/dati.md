@@ -1,13 +1,17 @@
 # Dati
 
-#### 1. I dati sono tutto ciò che riusciamo a rilevare.
+![Un grafico compilato dalla Storia universale di Elizabeth Peabody](../assets/images/dsc02860.jpg)
+
+<small>Un grafico compilato dalla Storia universale di Elizabeth Peabody (1859) - [Fonte](https://beinecke.library.yale.edu/article/visualizing-history)</small>
+
+### 1. I dati sono tutto ciò che riusciamo a rilevare.
 #### 1.2. La rilevazione dei dati è un bisogno.
 #### 1.3. Accumulare dati è un costo di produzione e gestione che richiede un processo di selezione quantitativa e qualitativa.La selezione è la relazione tra la conoscenza di chi raccoglie e la propria intuizione.
 #### 1.3.1. La quantità dei dati è definita dal bisogno di rilevare un fenomeno.
 #### 1.3.2. La qualità dei dati è il valore che attribuiamo alla loro quantità in relazione alla conoscenza di un fenomeno.
 #### 1.4. La rilevazione automatica è il bilanciamento tra costi di rilevazione e di gestione.
 #### 1.5. Il formato dei dati dipende dalla capacità di gestione.
-#### 1.5.1. Il formato digitale dei dati dipende dalla gestione automatica attraverso le macchine.
+#### 1.5.1. Il formato digitale dei dati è finalizzato alla gestione automatica attraverso le macchine.
 #### 1.5.2. Il formato digitale è soggetto ad obsolescenza se la gestione di un dato non può essere automatizzata.
 #### 1.5.2.1. La necessità di automatizzare la gestione e l’accesso ai dati dipende dalla loro frequenza e dalla loro diffusione di utilizzo.
 #### 1.5.3. La conservazione di un dato su formato digitale è più costosa rispetto al dato su supporto fisico.
@@ -24,26 +28,3 @@
 #### 1.6.2.2. Le comunità che scambiano conoscenza esplicita sono il nucleo di una società che ha interiorizzato le rispettive conoscenza implicite.
 #### 1.6.3. La condivisione dati tra comunità avviene finché viene viene prodotto un valore economico e sociale.
 #### 1.7. I documenti sono la forma discorsiva dei dati.
-
-
-
-
-++ Mettere per ultimo ## I dati sono cose che acquisiscono senso quando fanno parte del linguaggio
-
-I DATI SONO CONDIVISI SOLO SE LE OPINIONI SONO CONDIVISE
-
-
-
-LA RECINZIONE DEI DATI AUMENTA I COSTI DI SCAMBIO E DI PRODUZIONE
-
-LA DISPONIBILITÀ DI DATI DIPENDE DAL VALORE ECONOMICO E SOCIALE DELLA LORO TRASFORMAZIONE
-
-IL VALORE DEI DATI NON È COSTANTE, MA È UNA NEGOZIAZIONE TRA CHI VUOLE TRASFORMARE E CHI DETIENE
-
-LA DISTRIBUZIONE DEI DATI È UNA NEGOZIAZIONE A MONTE
-
-L’ANDAMENTO DEL VALORE DEI DATI È CORRELATO ALLA SUA PRODUZIONE NELLE DINAMICHE SOCIALI E NEGLI INTERESSI PUBBLICI
-
-IL LIBERO ACCESSO AI DATI PROTEGGE L'INTERESSE INDIVIDUALE
-
-++ *AGGIUNGERE SULLA NATURA MATERIALE E IMMATERIALE DEI DATI* ++ (esempio i dati scritti su un documenti, i dati rilevati automaticamente da un sensore - discorso sull'automazione)

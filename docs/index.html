@@ -52,7 +52,7 @@
       repo: '',
       coverpage: true,
       loadSidebar: true,
-      subMaxLevel: 5,
+      subMaxLevel: 3,
 
       // Google Analytics
       ga: 'UA-148499280-3',
@@ -103,7 +103,7 @@
             var editHtml = '[<img src="/assets/icons/github.svg" alt="github icon" width="24" height="24">](' + url + ')\n'
 
             if (!(getParameterByName('hidegithublink') === 'true')) {
-              return editHtml + '\n\n' + html + '\n\n----\n\n' + 'di <a href="https://lucacorsato.com" target="_blank" style="color: inherit; font-weight: normal;">Luca Corsato</a>'
+              return editHtml + '\n\n' + html + '\n\n----\n\n' + '<small>© <a href="https://lucacorsato.com" target="_blank" style="color: inherit; font-weight: normal;">Luca Corsato</a> 2021</small><br><small><a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank" style="color: inherit; font-weight: normal;">CC-BY 4.0</a></small>'
             } else {
               return html + '\n\n----\n\n' + 'di <a href="https://lucacorsato.com" target="_blank" style="color: inherit; font-weight: normal;">Luca Corsato</a>'
             }
