@@ -1,6 +1,13 @@
 # Linguaggio
 
-## 2 I dati sono cose che acquisiscono senso quando fanno parte del linguaggio
+#### 2.1
+Un linguaggio chiaro è controllabile dai dati che usa.
+
+#### 2.2
+Ciò che non è formalizzabile attraverso un metodo di raccolta e gestione dei dati è un'opinione.
+
+
+
 
 IL METODO PERSUADE PIÙ DEI DATI E DELLA CONOSCENZA
 

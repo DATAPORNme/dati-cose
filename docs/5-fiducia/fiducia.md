@@ -1,4 +1,7 @@
-# 5
+# Fiducia
+
+#### 5
+La fiducia è disponibilità alla condivisione
 
 ALLA RIDUZIONE DELL'ACCESSO AI DATI CORRISPONDE UN AUMENTO DELL'INCERTEZZA
 

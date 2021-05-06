@@ -1,6 +1,6 @@
 # Prefazione
 
-Questi pensieri saranno comprensibili solo a chi ha dovuto organizzare le proprie idee per formulare una tesi. Presto o tardi ognuno si trova nella necessità di raccogliere dei dati per trasmettere informazioni verificate e controllabili. Senza dati è impossibile dimostrare la verità o la falsità di una informazione.
+Questi pensieri saranno comprensibili solo a chi ha dovuto organizzare le proprie idee per formulare una tesi. Presto o tardi ognuno si trova nella necessità di raccogliere dei dati per trasmettere informazioni verificate e controllabili. Senza dati è impossibile dimostrare un'informazione.
 
 Siccome raccogliere e organizzare i dati richiedono la capacità di formalizzare il metodo utilizzato, è più comodo ricorrere alle opinioni che usano i pregiudizi. Questi miei pensieri si possono riassumere nelle parole: un linguaggio chiaro è controllabile con i dati che usa; e ciò che non è formalizzabile attraverso un metodo di raccolta e gestione dei dati è un'opinione.
 

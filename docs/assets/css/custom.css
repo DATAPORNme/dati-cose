@@ -7,6 +7,10 @@ Put your custom CSS in this file.
   background-color: #fffff8;
 }
 
+.anchor, h4 {
+  font-weight: 400;
+}
+
 img {
   padding-top: 0;
 }
