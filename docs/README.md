@@ -1,10 +1,9 @@
 # Prefazione
 
-![Diagramma incluso alla fine della dissertazione di Leibniz sull'arte delle combinazioni](/assets/images/Fotothek_df_tg_0005486_Mathematik_^_Kombinatorik.jpg)
+![I dati e le cose immagine](/assets/images/cose-meta.png)
 
-<small>Diagramma incluso alla fine della dissertazione di Leibniz [De arte combinatoria](https://en.wikipedia.org/wiki/De_Arte_Combinatoria) - [Fonte](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0005486_Mathematik_%5E_Kombinatorik.jpg)</small>
 
-Questi pensieri saranno comprensibili solo a chi ha dovuto organizzare le proprie idee per formulare una tesi. Presto o tardi ognuno si trova nella necessità di raccogliere dei dati per trasmettere informazioni verificate e controllabili. Senza dati è impossibile dimostrare un'informazione.
+Questi pensieri saranno comprensibili solo a chi ha faticato per organizzare le proprie idee per formulare una tesi. Presto o tardi ognuno si trova nella necessità di raccogliere dei dati per trasmettere informazioni verificate e controllabili. Senza dati è impossibile dimostrare un'informazione.
 
 Siccome raccogliere e organizzare i dati richiedono la capacità di formalizzare il metodo utilizzato, è più comodo ricorrere alle opinioni che usano i pregiudizi. Questi miei pensieri si possono riassumere nelle parole: un linguaggio chiaro è controllabile con i dati che usa; e ciò che non è formalizzabile attraverso un metodo di raccolta e gestione dei dati è un'opinione.
 
@@ -30,7 +29,7 @@ La pubblicazione di questa raccolta di pensieri è organizzata su quattro elemen
 
 1. l'uso di [Docsify](https://docsify.js.org/#/), un applicativo [opensource](https://github.com/docsifyjs/docsify/blob/develop/LICENSE) che organizza dei file in markdown in un sito web di documentazione;
 2. l'uso di un repository [GitHub](https://github.com/DATAPORNme/dati-cose) per l'hosting del sito e l'accesso ai file;
-3. la condivisione su [Zenodo](https://zenodo.org/) per l'attribuzione del [DOI] e la conservazione permanente;
+3. la condivisione su [Zenodo](https://zenodo.org/) per l'attribuzione del [DOI](https://it.wikipedia.org/wiki/Digital_object_identifier) e la conservazione permanente;
 4. l'attribuzione di una licenza Creative Commons [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it).
 
 Questi elementi sono la base per ottenere un documento [openaccess](https://it.wikipedia.org/wiki/Open_access) secondo i principi [FAIR](https://en.wikipedia.org/wiki/FAIR_data) per garantire:

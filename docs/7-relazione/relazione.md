@@ -1,5 +1,9 @@
 # 7
 
+![Diagramma incluso alla fine della dissertazione di Leibniz sull'arte delle combinazioni](/assets/images/Fotothek_df_tg_0005486_Mathematik_^_Kombinatorik.jpg)
+
+<small>Diagramma incluso alla fine della dissertazione di Leibniz [De arte combinatoria](https://en.wikipedia.org/wiki/De_Arte_Combinatoria) - [Fonte](https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0005486_Mathematik_%5E_Kombinatorik.jpg)</small>
+
 L’ANDAMENTO DEL VALORE DEI DATI È CORRELATO ALLA SUA PRODUZIONE NELLE DINAMICHE SOCIALI E NEGLI INTERESSI PUBBLICI
 
 I DATI SONO CONDIVISI SOLO SE LE OPINIONI SONO CONDIVISE

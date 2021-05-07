@@ -1,8 +1,8 @@
 # Linguaggio
 
-![Joseph Ducreux, "Autoritratto dell'artista sotto le spoglie di un beffardo"](../assets/images/Joseph_ducreux,_autoritratto_dell'artista_che_prende_il_giro,_1793,_01-edit.jpg)
+![Frontespizio di Basilica chymica di Oswald Croll](../assets/images/Oswald_Croll_1629_Basilica_Chymica_Title_Page.tif.jpg)
 
-<small>[Joseph Ducreux](https://it.wikipedia.org/wiki/Joseph_Ducreux), "Autoritratto dell'artista sotto le spoglie di un beffardo" - [Fonte](https://commons.wikimedia.org/wiki/File:Joseph_ducreux,_autoritratto_dell%27artista_che_prende_il_giro,_1793,_01.jpg)</small>
+<small>Frontespizio di Basilica chymica di [Oswald Croll](https://it.wikipedia.org/wiki/Oswald_Croll) - [Fonte](https://commons.wikimedia.org/wiki/File:Joseph_ducreux,_autoritratto_dell%27artista_che_prende_il_giro,_1793,_01.jpg)</small>
 
 #### 2
 I dati sono cose che acquisiscono senso quando fanno parte del linguaggio
