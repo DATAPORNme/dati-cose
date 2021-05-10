@@ -2,10 +2,13 @@
 
 ![I dati e le cose immagine](/assets/images/cose-meta.png)
 
+<small>Disegno della [macchina calcolatrice di Leibniz](https://it.wikipedia.org/wiki/Stepped_Reckoner), raffigurato come un piatto pieghevole in 5 (1710) - [Fonte](https://commons.wikimedia.org/wiki/File:Leibniz%27s_drawing_of_his_calculating_machine.jpg)</small>
+
+
 
 Questi pensieri saranno comprensibili solo a chi ha faticato per organizzare le proprie idee per formulare una tesi. Presto o tardi ognuno si trova nella necessità di raccogliere dei dati per trasmettere informazioni verificate e controllabili. Senza dati è impossibile dimostrare un'informazione.
 
-Siccome raccogliere e organizzare i dati richiedono la capacità di formalizzare il metodo utilizzato, è più comodo ricorrere alle opinioni che usano i pregiudizi. Questi miei pensieri si possono riassumere nelle parole: un linguaggio chiaro è controllabile con i dati che usa; e ciò che non è formalizzabile attraverso un metodo di raccolta e gestione dei dati è un'opinione.
+Siccome raccogliere e organizzare i dati richiedono la capacità di formalizzare il metodo utilizzato, è più efficiente evitare le opinioni che usano i pregiudizi. Questi miei pensieri si possono riassumere nelle parole: un linguaggio chiaro è controllabile con i dati che usa; e ciò che non è formalizzabile attraverso un metodo di raccolta e gestione dei dati è un'opinione.
 
 Il limite all'informazione è il consenso su come e perché si sono scelti dei dati, o piuttosto - non all'informazione, ma agli effetti che produce.
 
