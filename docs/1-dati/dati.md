@@ -20,13 +20,13 @@
 #### 1.6.2. Il formato digitale è soggetto ad obsolescenza se la gestione di un dato non può essere automatizzata.
 #### 1.6.2.1. La necessità di automatizzare la gestione e l’accesso ai dati dipende dalla loro frequenza e dalla loro diffusione di utilizzo.
 #### 1.6.3. Il formato fisico dei dati richiede la relazione tra le persone e i luoghi che conservano i dati.
-#### 1.6.3.1. I dati in formato fisico richiede una cooperazione e uno scambio tra le persone.
+#### 1.6.3.1. I dati in formato fisico richiedono una cooperazione e uno scambio tra le persone.
 #### 1.6.3.2. Le relazioni tra persone per la gestione di dati in formato fisico sono un costo.
-#### 1.6.3.4. La disponibilità delle persone a supportare il costo delle relazioni è proporzionato al valore economico e sociale ottenibile dai dati.
+#### 1.6.3.3. La disponibilità a supportare il costo delle relazioni è proporzionata al valore economico e sociale ottenibile dai dati.
 #### 1.6.4. La conservazione di un dato su formato digitale richiede meno relazioni tra persone rispetto al dato su supporto fisico.
 #### 1.6.5. I costi di conservazione digitale sono assorbibili da una gestione automatizzata.
-#### 1.6.7. La gestione automatizzata è l’insieme delle regole di archiviazione, catalogazione e progettazione dell’architettura informatica.
-#### 1.6.7. La gestione automatizzata dei dati in formato digitale è più efficiente - perché riduce i costi di relazione tra persone - e più efficace perché è replicabile con un costo fisso di gestione.
-#### 1.6.9. I dati in formato digitale richiedono una gestione orientata ai servizi che possono produrre.
+#### 1.6.6. La gestione automatizzata è l’insieme delle regole di archiviazione, catalogazione e progettazione dell’architettura informatica.
+#### 1.6.7. La gestione automatizzata dei dati in formato digitale è più efficace - perché riduce i costi di relazione tra persone - e più efficiente perché è replicabile con un costo fisso di gestione.
+#### 1.6.8. I dati in formato digitale richiedono una gestione orientata ai servizi che possono produrre.
 #### 1.7. I servizi dei dati digitali sono finalizzati a migliorare lo scambio dei dati e la loro trasformazione in documenti che trasmettono informazioni.
 #### 1.8. I documenti sono la forma discorsiva dei dati.
