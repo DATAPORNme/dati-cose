@@ -1,3 +1,4 @@
 - [Prefazione](/README.md)
-- [1 dati](/1-dati/dati.md)
-- [2 linguaggio](2-linguaggio/linguaggio.md)
+- [1 Dati](/1-dati/dati.md)
+- [2 Linguaggio](2-linguaggio/linguaggio.md)
+- [3 Fiducia](3-fiducia/fiducia.md)
