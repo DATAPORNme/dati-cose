@@ -24,7 +24,7 @@ I problemi che cerco di risolvere sono innanzitutto due. Il primo è come tratta
 
 ## Nota di metodo
 
-![Très riches heures du Duc de Berry](/assets/images/Les_Très_Riches_Heures_du_duc_de_Berry_juillet.jpg)
+![Très riches heures du Duc de Berry](https://cose.dataporn.me/assets/images/Les_Très_Riches_Heures_du_duc_de_Berry_juillet.jpg)
 
 <small>[Très riches heures du Duc de Berry](https://it.wikipedia.org/wiki/Tr%C3%A8s_riches_heures_du_Duc_de_Berry) - [Fonte](https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_juillet.jpg)</small>
 
