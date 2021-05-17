@@ -1,6 +1,6 @@
 # Prefazione
 
-![I dati e le cose immagine](/assets/images/cose-meta.png)
+![I dati e le cose immagine](https://cose.dataporn.me/assets/images/cose-meta.png)
 
 <small>Disegno della [macchina calcolatrice di Leibniz](https://it.wikipedia.org/wiki/Stepped_Reckoner), raffigurato come un piatto pieghevole in 5 (1710) - [Fonte](https://commons.wikimedia.org/wiki/File:Leibniz%27s_drawing_of_his_calculating_machine.jpg)</small>
 
