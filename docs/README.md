@@ -4,23 +4,17 @@
 
 <small>Disegno della [macchina calcolatrice di Leibniz](https://it.wikipedia.org/wiki/Stepped_Reckoner), raffigurato come un piatto pieghevole in 5 (1710) - [Fonte](https://commons.wikimedia.org/wiki/File:Leibniz%27s_drawing_of_his_calculating_machine.jpg)</small>
 
+Lo studio è soppiantato dal *tutorial* e l’apprendimento ha ormai senso solo nell’esecuzione. La finalizzazione di un *sapere* è costretta in un tempo ristretto, perché bisogna apprendere - il più in fretta possibile - qualcosa che torni utile. I video di *youtuber* forniscono pillole veloci che, in circostanze rare, portano all’approfondimento ma sempre con uno stimolo ad aver assimilato una dose di informazioni utili a qualcosa. Scrivere di dati e cose, di modelli e dinamiche di conoscenza è un atto inutile, perché si stacca dalla fretta di recuperare informazioni per *fare qualcosa*. I dati e le cose sono certamente molto pratici, ma non agiscono al livello del *fare*, piuttosto del *comprendere*.
 
+Queste frasi sono soggettive nell’organizzazione, con l’ambizione di essere oggettive per immaginare che servano a qualcuno oltre a me. La fatica dello studio la ritrovo ogni volta che mi si para davanti una raccolta di dati: perché sono stati raccolti? Come sono stati raccolti? Che bisogno c’è nella loro raccolta? Infine le domande più pesanti: cosa stava pensando chi ha raccolto questi dati? Che effetto hanno avuto su chi li ha raccolti?
 
-Questi pensieri saranno comprensibili solo a chi ha faticato per organizzare le proprie idee per formulare una tesi. Presto o tardi ognuno si trova nella necessità di raccogliere dei dati per trasmettere informazioni verificate e controllabili. Senza dati è impossibile dimostrare un'informazione.
+Il pudore mi ha spinto ad usare nelle frasi un linguaggio duro, quasi compilatorio, perché io stesso mi sento nudo ed esposto a queste domande. *Cosa sta pensando?* *E perché si sente così?* Cerco le risposte in ogni persona che esprime qualcosa e, per allontanare i pregiudizi che ho inevitabilmente, cerco i dati e le cose che vengono usati per comporre il discorso.
 
-Siccome raccogliere e organizzare i dati richiedono la capacità di formalizzare il metodo utilizzato, è più efficiente evitare le opinioni che usano i pregiudizi. Questi miei pensieri si possono riassumere nelle parole: un linguaggio chiaro è controllabile con i dati che usa; e ciò che non è formalizzabile attraverso un metodo di raccolta e gestione dei dati è un'opinione.
+Quindi queste frasi sono un *tutorial* al contrario per me stesso. Non ho compilato delle informazioni che mi facciano eseguire qualcosa, piuttosto una serie di riferimenti per pensare meglio. Un pensiero pulito, una serie di appunti per selezionare quello che mi può servire e cosa abbandonare. Il mio sforzo è di allontanare la *paura di essermi perso qualcosa*. I dati e le cose sono delle regole alla disciplina per non restare confuso e schiacciato dall’enormità di parole, concetti e  soluzioni a cui ho facilmente accesso.
 
-Il limite all'informazione è il consenso su come e perché si sono scelti dei dati, o piuttosto - non all'informazione, ma agli effetti che produce.
+In queste regole voglio risolvere principalmente due problemi. Il primo problema è definire i sottoinsiemi che formano il sistema complesso delle informazioni a partire dai dati e dal linguaggio. Il secondo problema è la gestione della relazione tra mostrare e condividere le cose attraverso un discorso.
 
-L'informazione richiede innanzitutto un consenso sul linguaggio usato per comunicarla, ma se tale consenso non si estende ai dati, il controllo che l'informazione possa essere vera o falsa è solo formale.
-
-La fiducia si ottiene se la verità delle informazioni e del linguaggio sono controllabili attraverso il metodo e la gestione dei dati. Questo implica la capacità di scegliere cosa serve alle tesi che si vogliono avanzare, usando le basi del metodo scientifico come strumento per formalizzare la costruzione di una teoria.
-
-I motori di ricerca, i programmi che utilizziamo ogni giorno, sono costruiti con una formalizzazione di regole di selezione di dati e funzioni. Quando questi strumenti sono controllabili nell'efficacia e efficienza dei loro risultati, allora sono considerati affidabili e ottengono fiducia.
-
-I fattori che concorrono alla fiducia e al consenso sui dati sono oggetto di questi pensieri.
-
-I problemi che cerco di risolvere sono innanzitutto due. Il primo è come trattare i dati perché siano cose fisiche inseribili in un linguaggio; il secondo è come ottenere consenso alla condivisione dei dati all'interno di un'argomentazione. Non so se riesco a raggiungere un livello soddisfacente di soluzione, ma confido che altri possano riuscirci magari usando questi pensieri.
+Il *mostrare* e *condividere* li intendo come atti interni a chi li compie, perché di fronte all’impatto della mole informativa è necessario che faccia per me una selezione di *cosa mostrare* e *cosa condividere* con il mio modo di pensare, con quello che già so. Il bisogno di tempo per fare selezione e organizzazione prima dentro di me, mi permette di controllare il ritmo di quanto e cosa ho bisogno di conoscere. Ho bisogno di regolare il respiro del mio pensiero per non pensare troppo e male.
 
 ## Nota di metodo
 
