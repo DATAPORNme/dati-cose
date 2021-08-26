@@ -1,1 +1,3 @@
 - [Il Visualizzatore](/visualizzatore.md)
+- [L'Informatrice](/informatrice.md)
+- [Il silenzio](/silenzio.md)
