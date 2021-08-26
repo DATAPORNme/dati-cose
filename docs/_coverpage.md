@@ -6,4 +6,4 @@
 
 
 [GitHub](https://github.com/DATAPORNme/dati-cose)
-[Inizia](/README.md)
+[Inizia](/visualizzatore.md)
