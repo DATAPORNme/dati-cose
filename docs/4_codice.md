@@ -1,0 +1,8 @@
+---
+title: Il codice
+layout: default
+nav_order: 4
+---
+
+# Il codice
+Pan Doth apre il computer. Per i lavori quotidiani lavorava direttamente in digitale, mentre per le cose più complesse o di studio, lavorava con pennelli e matite. Alla lunga le interfacce erano un limite perché erano il risultato dell'approccio di chi le aveva progettate. Osserva le icone del programma di grafica su cui sta lavorando ad un'interfaccia creata da lui. Imposta il timer con due fasi da 25 minuti e inizia a muovere le icone negli spazi di lavoro. Il trillo del secondo timer lo sorprende nel mezzo della terza interfaccia a cui era passato senza accorgersi del tempo volato via. Si carica la pipa e esce nel terrazzo che è già il tramonto. Dovrebbe prepararsi la cena ma continua a sbirciare lo schermo. Finisce la carica di tabacco e inizia a testare quelle nuove interfacce senza impostare alcun timer. Squilla lo smartphone. È sua moglie che lo chiama per la buonanotte e per sapere se la giornata era stata buona. Pan Doth solo allora si accorge che aveva saltato la cena ed era ormai ora di dormire. Chiacchera allora un po' con la moglie e ascolta un paio il racconto di sua figlia su una bolla che deve studiare. Senza pensarci apre il gioco di strategia con cui si rilassa e mentre saluta moglie e figlia si ritrova a lanciare una partita contro qualcuno in rete. Si ricarica la pipa, il sonno non c'è e deve staccare il pensiero dai lavori visti con l'Informatrice. Questa volta il timer suona dopo una sola fase, sollevato Pan Doth va verso il letto e si addormenta con il crepitio della stufa e del vento che soffia tra gli alberi attorno alla casa.
