@@ -5,6 +5,8 @@ description: Due storie per spiegare cos'è i dati e le cose
 permalink: /
 ---
 
+![copertina](/assets/images/cose_meta.svg)
+
 Una cronaca e due storie su *i dati e le cose*
 
 ## Cronaca del recinto

@@ -21,6 +21,24 @@ jekyll_admin:
     - configuration
   homepage: "pages"
 
+# SEO
+twitter:
+  username: lucacorsato
+  card: summary_large_image
+github:  lucacorsato
+facebook: lucacorsato
+email: luca@lucacorsato.com
+github_username: lucacorsato
+facebook_username: lucacorsato
+twitter_username: lucacorsato
+
+# SEO
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/images/cose-meta.png"
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
